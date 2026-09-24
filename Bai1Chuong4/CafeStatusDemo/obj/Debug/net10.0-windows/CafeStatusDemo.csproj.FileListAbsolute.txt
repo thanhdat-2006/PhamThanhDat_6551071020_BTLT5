@@ -1,0 +1,17 @@
+D:\C#\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.exe
+D:\C#\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.deps.json
+D:\C#\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.runtimeconfig.json
+D:\C#\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.dll
+D:\C#\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.pdb
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.Form1.resources
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.GenerateResource.cache
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfoInputs.cache
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfo.cs
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.CoreCompileInputs.cache
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.dll
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\refint\CafeStatusDemo.dll
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.pdb
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.genruntimeconfig.cache
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\ref\CafeStatusDemo.dll
+D:\C#\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStat.05D0083D.Up2Date
