@@ -1,0 +1,17 @@
+D:\C#\BangVe\bin\Debug\net10.0-windows\BangVe.exe
+D:\C#\BangVe\bin\Debug\net10.0-windows\BangVe.deps.json
+D:\C#\BangVe\bin\Debug\net10.0-windows\BangVe.runtimeconfig.json
+D:\C#\BangVe\bin\Debug\net10.0-windows\BangVe.dll
+D:\C#\BangVe\bin\Debug\net10.0-windows\BangVe.pdb
+D:\C#\BangVe\obj\Debug\net10.0-windows\BangVe.Form1.resources
+D:\C#\BangVe\obj\Debug\net10.0-windows\BangVe.csproj.GenerateResource.cache
+D:\C#\BangVe\obj\Debug\net10.0-windows\BangVe.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BangVe\obj\Debug\net10.0-windows\BangVe.AssemblyInfoInputs.cache
+D:\C#\BangVe\obj\Debug\net10.0-windows\BangVe.AssemblyInfo.cs
+D:\C#\BangVe\obj\Debug\net10.0-windows\BangVe.csproj.CoreCompileInputs.cache
+D:\C#\BangVe\obj\Debug\net10.0-windows\BangVe.dll
+D:\C#\BangVe\obj\Debug\net10.0-windows\refint\BangVe.dll
+D:\C#\BangVe\obj\Debug\net10.0-windows\BangVe.pdb
+D:\C#\BangVe\obj\Debug\net10.0-windows\BangVe.genruntimeconfig.cache
+D:\C#\BangVe\obj\Debug\net10.0-windows\ref\BangVe.dll
+D:\C#\BangVe\obj\Debug\net10.0-windows\BangVe.csproj.Up2Date

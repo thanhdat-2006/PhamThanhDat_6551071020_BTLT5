@@ -1,0 +1,17 @@
+D:\C#\SieuThi\bin\Debug\net10.0-windows\SieuThi.exe
+D:\C#\SieuThi\bin\Debug\net10.0-windows\SieuThi.deps.json
+D:\C#\SieuThi\bin\Debug\net10.0-windows\SieuThi.runtimeconfig.json
+D:\C#\SieuThi\bin\Debug\net10.0-windows\SieuThi.dll
+D:\C#\SieuThi\bin\Debug\net10.0-windows\SieuThi.pdb
+D:\C#\SieuThi\obj\Debug\net10.0-windows\SieuThi.frmBanHang.resources
+D:\C#\SieuThi\obj\Debug\net10.0-windows\SieuThi.csproj.GenerateResource.cache
+D:\C#\SieuThi\obj\Debug\net10.0-windows\SieuThi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SieuThi\obj\Debug\net10.0-windows\SieuThi.AssemblyInfoInputs.cache
+D:\C#\SieuThi\obj\Debug\net10.0-windows\SieuThi.AssemblyInfo.cs
+D:\C#\SieuThi\obj\Debug\net10.0-windows\SieuThi.csproj.CoreCompileInputs.cache
+D:\C#\SieuThi\obj\Debug\net10.0-windows\SieuThi.dll
+D:\C#\SieuThi\obj\Debug\net10.0-windows\refint\SieuThi.dll
+D:\C#\SieuThi\obj\Debug\net10.0-windows\SieuThi.pdb
+D:\C#\SieuThi\obj\Debug\net10.0-windows\SieuThi.genruntimeconfig.cache
+D:\C#\SieuThi\obj\Debug\net10.0-windows\ref\SieuThi.dll
+D:\C#\SieuThi\obj\Debug\net10.0-windows\SieuThi.csproj.Up2Date
