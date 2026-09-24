@@ -1,0 +1,17 @@
+D:\C#\To-do List\bin\Debug\net10.0-windows\To-do List.exe
+D:\C#\To-do List\bin\Debug\net10.0-windows\To-do List.deps.json
+D:\C#\To-do List\bin\Debug\net10.0-windows\To-do List.runtimeconfig.json
+D:\C#\To-do List\bin\Debug\net10.0-windows\To-do List.dll
+D:\C#\To-do List\bin\Debug\net10.0-windows\To-do List.pdb
+D:\C#\To-do List\obj\Debug\net10.0-windows\To_do_List.Form1.resources
+D:\C#\To-do List\obj\Debug\net10.0-windows\To-do List.csproj.GenerateResource.cache
+D:\C#\To-do List\obj\Debug\net10.0-windows\To-do List.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\To-do List\obj\Debug\net10.0-windows\To-do List.AssemblyInfoInputs.cache
+D:\C#\To-do List\obj\Debug\net10.0-windows\To-do List.AssemblyInfo.cs
+D:\C#\To-do List\obj\Debug\net10.0-windows\To-do List.csproj.CoreCompileInputs.cache
+D:\C#\To-do List\obj\Debug\net10.0-windows\To-do List.dll
+D:\C#\To-do List\obj\Debug\net10.0-windows\refint\To-do List.dll
+D:\C#\To-do List\obj\Debug\net10.0-windows\To-do List.pdb
+D:\C#\To-do List\obj\Debug\net10.0-windows\To-do List.genruntimeconfig.cache
+D:\C#\To-do List\obj\Debug\net10.0-windows\ref\To-do List.dll
+D:\C#\To-do List\obj\Debug\net10.0-windows\To-do List.csproj.Up2Date
